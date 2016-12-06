@@ -1,4 +1,4 @@
-# US-states-and-cities-in-JSON-form
+# US states and cities list in JSON format
 US state name, abbreviation and cities
 
 Data source - http://api.sba.gov/doc/geodata.html
