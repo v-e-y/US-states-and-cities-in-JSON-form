@@ -1,0 +1,385 @@
+[
+    {
+        "name": "Alabama",
+        "abbreviation": "AL",
+        "AL": [
+            "Abbeville","Alabaster","Alexander City","Andalusia","Anniston","Arab","Ashland","Athens","Attalla","Auburn","Baileyton","Bay Minette","Beatrice","Bessemer","Birmingham","Boaz","Brantley","Brewton","Bridgeport","Brookwood","Brundidge","Calera","Cedar Bluff","Centre","Childersburg","Citronelle","Clanton","Collinsville","Columbiana","Courtland","Crossville","Cullman","Daleville","Daphne","Dauphin Island","Decatur","Demopolis","Dothan","Elba","Enterprise","Eufaula","Fairhope","Fayette","Florence","Foley","Fort Deposit","Fort Payne","Fultondale","Gadsden","Gardendale","Grant","Guin","Gulf Shores","Guntersville","Hamilton","Hartselle","Heflin","Helena","Homewood","Hoover","Hueytown","Huntsville","Irondale","Jacksonville","Jasper","Leeds","Leesburg","Lincoln","Lineville","Livingston","Luverne","Madison","Marion","Millbrook","Mobile","Monroeville","Montevallo","Montgomery","Mountain Brook","Muscle Shoals","Northport","Opelika","Orange Beach","Oxford","Ozark","Pelham","Pell City","Phenix City","Piedmont","Prattville","Rainbow City","Rehobeth","Robertsdale","Russellville","Saraland","Sardis City","Satsuma","Scottsboro","Selma","Sheffield","Shorter","Summerdale","Sylacauga","Talladega","Tallassee","Tallassee","Thomasville","Troy","Trussville","Tuscaloosa","Tuskegee","Union Springs","Uniontown","Valley","Vernon","Vestavia Hills","Wetumpka","Winfield"
+        ]
+    },
+    {
+        "name": "Alaska",
+        "abbreviation": "AK",
+        "AK": [
+            "Anchorage","Bethel","Coffman Cove","Cordova","Craig","Delta Junction","Dillingham","Fairbanks","Haines","Homer","Juneau","Kaktovik","Kenai","Ketchikan","Kodiak","Kotzebue","Nome","North Pole","Pelican","Petersburg","Seldovia","Sitka","Skagway","Soldotna","Unalaska","Valdez","Wasilla","Wrangell"
+        ]
+    },
+    {
+        "name": "American Samoa",
+        "abbreviation": "AS"
+    },
+    {
+        "name": "Arizona",
+        "abbreviation": "AZ",
+        "AZ": [
+            "Apache Junction","Avondale","Benson","Bisbee","Buckeye","Bullhead City","Camp Verde","Carefree","Casa Grande","Cave Creek","Chandler","Chino Valley","Clarkdale","Coolidge","Cottonwood","Duncan","Eagar","El Mirage","Eloy","Flagstaff","Florence","Fountain Hills","Gilbert","Glendale","Goodyear","Guadalupe","Holbrook","Kearny","Kingman","Lake Havasu City","Litchfield Park","Marana","Maricopa","Mesa","Nogales","Oro Valley","Page","Paradise Valley","Parker","Payson","Peoria","Phoenix","Pinetop-Lakeside","Prescott","Prescott Valley","Quartzsite","Queen Creek","Queen Creek","Safford","Sahuarita","Saint Johns","Scottsdale","Sedona","Show Low","Sierra Vista","Snowflake","Springerville","Superior","Surprise","Tempe","Thatcher","Tolleson","Tombstone","Tucson","Wellton","Wickenburg","Willcox","Williams","Winslow","Yuma"
+        ]
+    },
+    {
+        "name": "Arkansas",
+        "abbreviation": "AR",
+        "AR":[
+            "Arkadelphia","Bentonville","Carlisle","Cherokee Village","Conway","Crossett","Eureka Springs","Fayetteville","Fort Smith","Hot Springs","Jacksonville","Jonesboro","Lavaca","Little Rock","Maumelle","Melbourne","Mena","Nashville","North Little Rock","Rogers","Russellville","Searcy","Sherwood","Siloam Springs","West Memphis"
+        ]
+    },
+    {
+        "name": "California",
+        "abbreviation": "CA",
+        "CA": [
+            "Adelanto","Agoura","Alameda","Albany","Alhambra","Aliso Viejo","Alturas","American Canyon","Anaheim","Anderson","Angels Camp","Antioch","Apple Valley","Arcadia","Arcata","Arroyo Grande","Artesia","Atascadero","Atherton","Atwater","Auburn","Avalon","Azusa","Bakersfield","Baldwin Park","Banning","Barstow","Beaumont","Bell","Bell Gardens","Bellflower","Belmont","Belvedere","Benicia","Berkeley","Beverly Hills","Big Bear Lake","Biggs","Bradbury","Brawley","Brea","Brentwood","Brisbane","Buellton","Burbank","Burlingame","Calabasas","Calexico","Calimesa","Calistoga","Camarillo","Campbell","Canyon Lake","Capitola","Carlsbad","Carmel-by-the-Sea","Carpinteria","Carson","Cathedral City","Ceres","Cerritos","Chico","Chino","Chino Hills","Chowchilla","Chula Vista","Citrus Heights","Claremont","Clayton","Clearlake","Cloverdale","Clovis","Coachella","Coalinga","Colfax","Colma","Colton","Commerce","Compton","Concord","Corcoran","Corning","Corona","Coronado","Corte Madera","Costa Mesa","Cotati","Covina","Crescent City","Cudahy","Culver City","Cupertino","Cypress","Daly City","Dana Point","Danville","Davis","Del Mar","Del Rey Oaks","Delano","Desert Hot Springs","Diamond Bar","Dinuba","Dixon","Downey","Duarte","Dublin","Dunsmuir","East Palo Alto","El Cajon","El Centro","El Cerrito","El Monte","El Segundo","Elk Grove","Emeryville","Encinitas","Escalon","Escondido","Eureka","Fairfax","Fairfield","Ferndale","Fillmore","Firebaugh","Folsom","Fontana","Fort Bragg","Fortuna","Foster City","Fountain Valley","Fowler","Fremont","Fresno","Fullerton","Galt","Garden Grove","Gardena","Gilroy","Glendale","Glendora","Goleta","Gonzales","Grass Valley","Greenfield","Gridley","Grover Beach","Guadalupe","Gustine","Half Moon Bay","Hanford","Hawaiian Gardens","Hawthorne","Hayward","Healdsburg","Hemet","Hercules","Hermosa Beach","Hesperia","Hidden Hills","Highland","Hillsborough","Hollister","Holtville","Hughson","Huntington Beach","Huntington Park","Imperial","Imperial Beach","Indian Wells","Indio","Industry","Inglewood","Ione","Irvine","Irwindale","Jackson","King City","Kingsburg","La Cañada Flintridge","La Habra","La Habra Heights","La Mesa","La Mirada","La Palma","La Puente","La Quinta","La Verne","Lafayette","Laguna Beach","Laguna Hills","Laguna Niguel","Laguna Woods","Lake Elsinore","Lake Forest","Lakewood","Lancaster","Larkspur","Lathrop","Lawndale","Lemon Grove","Lemoore","Lincoln","Lindsay","Livermore","Lodi","Loma Linda","Lomita","Lompoc","Long Beach","Loomis","Los Alamitos","Los Altos","Los Altos Hills","Los Angeles","Los Angeles","Los Banos","Los Gatos","Lynwood","Madera","Malibu","Mammoth Lakes","Manhattan Beach","Manteca","Marina","Martinez","Marysville","Maywood","McFarland","Mendota","Menlo Park","Merced","Mill Valley","Millbrae","Milpitas","Mission Viejo","Modesto","Monrovia","Montclair","Monte Sereno","Montebello","Monterey","Monterey Park","Moorpark","Moraga","Moreno Valley","Morgan Hill","Morro Bay","Mount Shasta","Mountain View","Murrieta","Napa","National City","Needles","Newark","Newman","Newport Beach","Norco","Norwalk","Novato","Oakdale","Oakland","Oakley","Oceanside","Ojai","Ontario","Orange","Orinda","Oroville","Oxnard","Pacific Grove","Pacifica","Palm Desert","Palm Springs","Palmdale","Palo Alto","Palos Verdes Estates","Paradise","Paramount","Parlier","Pasadena","Paso Robles","Patterson","Perris","Petaluma","Pico Rivera","Pinole","Pinole","Pismo Beach","Pittsburg","Placentia","Placerville","Pleasant Hill","Pleasanton","Pomona","Port Hueneme","Porterville","Portola","Portola Valley","Poway","Rancho Cordova","Rancho Cucamonga","Rancho Mirage","Rancho Palos Verdes","Rancho Santa Margarita","Red Bluff","Redding","Redlands","Redondo Beach","Redwood City","Reedley","Rialto","Richmond","Ridgecrest","Rio Vista","Ripon","Riverbank","Riverside","Rocklin","Rohnert Park","Rolling Hills","Rolling Hills Estates","Roseville","Sacramento","Saint Helena","Salinas","San Anselmo","San Bernardino","San Bruno","San Carlos","San Clemente","San Diego","San Dimas","San Fernando","San Francisco","San Gabriel","San Jacinto","San Joaquin","San Jose","San Juan Capistrano","San Leandro","San Luis Obispo","San Marcos","San Marino","San Mateo","San Pablo","San Rafael","San Ramon","Sand City","Sanger","Santa Ana","Santa Barbara","Santa Clara","Santa Clarita","Santa Cruz","Santa Fe Springs","Santa Maria","Santa Monica","Santa Paula","Santa Rosa","Santee","Saratoga","Sausalito","Scotts Valley","Seal Beach","Seaside","Sebastopol","Selma","Shafter","Shasta Lake","Signal Hill","Simi Valley","Solana Beach","Soledad","Solvang","Sonoma","Sonora","South El Monte","South Gate","South Lake Tahoe","South Pasadena","South San Francisco","Stanton","Stockton","Suisun City","Sunnyvale","Susanville","Sutter Creek","Taft","Tehachapi","Temecula","Temple City","Thousand Oaks","Tiburon","Torrance","Tracy","Truckee","Tulare","Turlock","Tustin","Twentynine Palms","Ukiah","Union City","Upland","Vacaville","Vallejo","Ventura","Vernon","Victorville","Villa Park","Visalia","Vista","Walnut","Walnut Creek","Wasco","Watsonville","Weed","West Covina","West Hollywood","West Sacramento","Westminster","Whittier","Windsor","Winters","Woodlake","Woodland","Woodside","Yorba Linda","Yuba City","Yucaipa","Yucca Valley"
+        ]
+    },
+    {
+        "name": "Colorado",
+        "abbreviation": "CO",
+        "CO": [
+            "Alamosa","Arvada","Aspen","Aurora","Aurora","Avon","Basalt","Basalt","Bayfield","Bennett","Berthoud","Black Hawk","Blanca","Boulder","Breckenridge","Brighton","Broomfield","Brush","Carbondale","Castle Rock","Cañon City","Cedaredge","Centennial","Cherry Hills Village","Colorado Springs","Commerce City","Cortez","Craig","Crested Butte","Cripple Creek","Dacono","Deer Trail","Delta","Denver","Dillon","Durango","Eagle","Eaton","Edgewater","Englewood","Erie","Erie","Estes Park","Evans","Fairplay","Federal Heights","Firestone","Fort Collins","Fort Lupton","Fort Morgan","Fountain","Frederick","Frisco","Fruita","Georgetown","Glendale","Glenwood Springs","Golden","Grand Junction","Greeley","Greenwood Village","Gunnison","Gypsum","Hayden","Hudson","Idaho Springs","Johnstown","La Junta","Lafayette","Lakewood","Lamar","Limon","Littleton","Lone Tree","Longmont","Louisville","Loveland","Lyons","Manitou Springs","Meeker","Milliken","Minturn","Monte Vista","Montrose","Monument","Morrison","Mountain Village","Nederland","New Castle","Northglenn","Pagosa Springs","Palmer Lake","Parker","Platteville","Poncha Springs","Pueblo","Rifle","Sheridan","Silt","Silverthorne","Silverton","Snowmass Village","South Fork","Steamboat Springs","Sterling","Stratton","Superior","Telluride","Thornton","Timnath","Trinidad","Vail","Wellington","Westminster","Wheat Ridge","Windsor","Winter Park","Woodland Park","Wray"
+        ]
+    },
+    {
+        "name": "Connecticut",
+        "abbreviation": "CT",
+        "CT": [
+            "Ansonia","Bridgeport","Bristol","Danbury","Derby","Groton","Hartford","Hartford","Litchfield","Meriden","Middletown","Milford","Naugatuck","New Britain","New Haven","New London","Newtown","Norwalk","Norwich","Shelton","Stamford","Stonington","Torrington","Waterbury","West Haven"
+        ]
+    },
+    {
+        "name": "Delaware",
+        "abbreviation": "DE",
+        "DE": [
+            "Bellefonte","Bethany Beach","Bridgeville","Cheswold","Clayton","Delaware City","Dewey Beach","Dover","Elsmere","Fenwick Island","Georgetown","Harrington","Kenton","Laurel","Lewes","Middletown","Milford","Milford","Millsboro","Milton","New Castle","Newark","Newport","Ocean View","Odessa","Rehoboth Beach","Seaford","Selbyville","Smyrna","Smyrna","South Bethany","Townsend","Viola","Wilmington","Wyoming"
+        ]
+    },
+    {
+        "name": "District Of Columbia",
+        "abbreviation": "DC"
+    },
+    {
+        "name": "Federated States Of Micronesia",
+        "abbreviation": "FM"
+    },
+    {
+        "name": "Florida",
+        "abbreviation": "FL",
+        "FL": [
+            "Alachua","Altamonte Springs","Anna Maria","Apopka","Arcadia","Atlantic Beach","Atlantis","Auburndale","Aventura","Avon Park","Bal Harbour","Bay Harbor Islands","Belle Isle","Belleair","Belleair Beach","Belleair Bluffs","Boca Raton","Bonita Springs","Boynton Beach","Bradenton","Brooksville","Callaway","Cape Canaveral","Cape Coral","Casselberry","Chipley","Cinco Bayou","Clearwater","Clewiston","Cocoa","Cocoa Beach","Coconut Creek","Cooper City","Coral Gables","Coral Springs","Crystal River","Dade City","Dania Beach","Davie","Daytona Beach","Daytona Beach Shores","De Land","DeBary","Deerfield Beach","Delray Beach","Deltona","Destin","Dunedin","Dunnellon","Eagle Lake","Edgewater","Edgewood","Eustis","Fernandina Beach","Flagler Beach","Flagler Beach","Florida City","Fort Lauderdale","Fort Meade","Fort Myers","Fort Myers Beach","Fort Pierce","Fort Walton Beach","Fruitland Park","Gainesville","Green Cove Springs","Greenacres City","Gulf Breeze","Gulfport","Haines City","Hallandale Beach","Hialeah","Hialeah Gardens","High Springs","Highland Beach","Holly Hill","Hollywood","Holmes Beach","Homestead","Hypoluxo","Indialantic","Islamorada","Jacksonville","Jacksonville Beach","Juno Beach","Jupiter","Key Biscayne","Key Colony Beach","Key West","Kissimmee","Lady Lake","Lake Alfred","Lake Mary","Lake Park","Lake Placid","Lake Wales","Lake Worth","Lakeland","Lantana","Largo","Lauderdale Lakes","Lauderhill","Leesburg","Lighthouse Point","Live Oak","Longboat Key","Longboat Key","Longwood","Lynn Haven","Macclenny","Madeira Beach","Maitland","Malabar","Marathon","Marco","Margate","Mary Esther","Melbourne","Melbourne Beach","Miami","Miami Beach","Miami Gardens","Miami Lakes","Miami Shores","Miami Springs","Midway","Milton","Minneola","Miramar","Mount Dora","Naples","Neptune Beach","New Port Richey","New Smyrna Beach","Niceville","North Bay Village","North Lauderdale","North Miami","North Miami Beach","North Palm Beach","North Port","North Redington Beach","Oakland Park","Ocala","Ocean Ridge","Ocoee","Okeechobee","Oldsmar","Orlando","Ormond Beach","Oviedo","Palatka","Palm Bay","Palm Beach","Palm Beach Gardens","Palm Beach Shores","Palm Coast","Palm Springs","Palmetto","Panama City","Panama City Beach","Parkland","Pembroke Pines","Pensacola","Pinecrest","Pinellas Park","Plant City","Plantation","Polk City","Pompano Beach","Ponce Inlet","Port Orange","Port Saint Lucie","Punta Gorda","Quincy","Redington Beach","Redington Shores","Riviera Beach","Rockledge","Royal Palm Beach","Safety Harbor","Sanford","Sanibel","Sarasota","Satellite Beach","Sebastian","Shalimar","Sneads","South Daytona","South Miami","South Pasadena","Southwest Ranches","Springfield","Stuart","Sunny Isles Beach","Sunrise","Surfside","Tallahassee","Tamarac","Tampa","Tarpon Springs","Tavares","Temple Terrace","Tequesta","Titusville","Treasure Island","Valparaiso","Venice","Vero Beach","Wellington","West Melbourne","West Palm Beach","Weston","Wilton Manors","Windermere","Winter Garden","Winter Haven","Winter Park","Winter Springs","Zephyrhills"
+        ]
+    },
+    {
+        "name": "Georgia",
+        "abbreviation": "GA",
+        "GA": [
+            "Acworth","Albany","Alpharetta","Americus","Athens","Atlanta","Atlanta","Auburn","Augusta","Austell","Avondale Estates","Baconton","Bainbridge","Barnesville","Baxley","Berkeley Lake","Bloomingdale","Boston","Bowdon","Braselton","Bremen","Brooks","Brunswick","Buford","Byromville","Cairo","Calhoun","Camilla","Canton","Carrollton","Cartersville","Chamblee","Clarkston","College Park","Columbus","Commerce","Conyers","Covington","Cumming","Dacula","Dahlonega","Dawsonville","Decatur","Doraville","Douglas","Douglasville","Dublin","Duluth","East Point","Elberton","Ellaville","Ellijay","Euharlee","Fairburn","Fayetteville","Fitzgerald","Flowery Branch","Forest Park","Forsyth","Fort Valley","Gainesville","Gray","Griffin","Hahira","Hampton","Hapeville","Hawkinsville","Hinesville","Holly Springs","Hoschton","Jackson","Jonesboro","Kennesaw","Kingsland","La Grange","Lawrenceville","Lilburn","Locust Grove","Loganville","Loganville","Lookout Mountain","Lumpkin","Macon","Madison","Manchester","Manchester","Marietta","Metter","Milledgeville","Monroe","Montezuma","Morrow","Moultrie","Mountain Park","Newnan","Norcross","Odum","Oxford","Peachtree City","Pearson","Pembroke","Perry","Pine Lake","Pooler","Port Wentworth","Powder Springs","Richmond Hill","Rincon","Ringgold","Riverdale","Rockmart","Rome","Roswell","Rutledge","Saint Marys","Sandersville","Savannah","Senoia","Smyrna","Snellville","Springfield","Statesboro","Stockbridge","Stone Mountain","Sugar Hill","Suwanee","Swainsboro","Sylvania","Temple","Thomasville","Tifton","Toccoa","Tybee Island","Tyrone","Union City","Valdosta","Vidalia","Vienna","Villa Rica","Villa Rica","Warner Robins","Waycross","Waynesboro","West Point","West Point","Winder","Winterville","Woodstock"
+        ]
+    },
+    {
+        "name": "Guam",
+        "abbreviation": "GU"
+    },
+    {
+        "name": "Hawaii",
+        "abbreviation": "HI"
+    },
+    {
+        "name": "Idaho",
+        "abbreviation": "ID",
+        "ID": [
+            "Ammon","Ashton","Boise","Burley","Caldwell","Carey","Coeur d'Alene","Dietrich","Driggs","Eagle","Franklin","Fruitland","Garden City","Hailey","Hauser","Hayden","Homedale","Idaho Falls","Jerome","Kellogg","Ketchum","Kimberly","Kuna","Lewiston","McCall","Melba","Meridian","Middleton","Montpelier","Moscow","Mountain Home","Nampa","New Meadows","New Plymouth","Payette","Post Falls","Priest River","Rathdrum","Rexburg","Rigby","Rupert","Saint Anthony","Salmon","Sandpoint","Shelley","Soda Springs","Star","Sun Valley","Twin Falls"
+        ]
+    },
+    {
+        "name": "Illinois",
+        "abbreviation": "IL",
+        "IL": [
+            "Addison","Algonquin","Altamont","Alton","Antioch","Arcola","Arlington Heights","Auburn","Aurora","Aurora","Aurora","Aurora","Barrington","Barrington","Barrington Hills","Barrington Hills","Bartlett","Batavia","Beach Park","Beecher","Belleville","Bellwood","Belvidere","Bensenville","Berkeley","Berkeley","Berwyn","Bethalto","Bloomingdale","Bloomington","Blue Island","Bolingbrook","Bourbonnais","Bradley","Breese","Brookfield","Buffalo Grove","Burr Ridge","Carbondale","Carlyle","Carol Stream","Carpentersville","Carpentersville","Cary","Centralia","Champaign","Channahon","Charleston","Chatham","Cherry Valley","Chicago","Chicago Heights","Chicago Ridge","Chillicothe","Clarendon Hills","Coal City","Collinsville","Collinsville","Columbia","Cortland","Crystal Lake","Danville","Darien","DeKalb","Decatur","Deer Park","Deerfield","Des Plaines","Dolton","Downers Grove","East Alton","East Dundee","East Hazel Crest","East Moline","East Peoria","Edwardsville","Effingham","El Paso","Elburn","Elgin","Elgin","Elizabeth","Elk Grove Village","Elmhurst","Elmwood Park","Elsah","Evanston","Evergreen Park","Fairview Heights","Flossmoor","Forest Park","Forsyth","Fox Lake","Fox River Grove","Frankfort","Freeburg","Freeport","Fulton","Galena","Galesburg","Geneva","Germantown Hills","Gilberts","Glen Carbon","Glen Ellyn","Glencoe","Glendale Heights","Glenview","Glenwood","Grayslake","Green Oaks","Gurnee","Hainesville","Hampshire","Hanover","Hanover Park","Hartford","Harvard","Harvey","Harwood Heights","Hawthorn Woods","Highland","Highland Park","Hillside","Hinsdale","Hoffman Estates","Homer Glen","Homewood","Huntley","Itasca","Jacksonville","Jerome","Johnsburg","Joliet","Justice","Kankakee","Kildeer","La Grange","La Grange Park","Lake Bluff","Lake Forest","Lake Villa","Lake Zurich","Lake in the Hills","Lemont","Lena","Libertyville","Lincolnshire","Lincolnwood","Lindenhurst","Lisle","Litchfield","Lockport","Lombard","Long Grove","Machesney Park","Macomb","Marengo","Marion","Marshall","Mascoutah","Matteson","Maywood","McHenry","Melrose Park","Mendota","Metropolis","Minooka","Mokena","Moline","Monmouth","Montgomery","Monticello","Morrison","Morton","Morton Grove","Mount Prospect","Mount Vernon","Mount Zion","Mundelein","Murphysboro","Naperville","New Berlin","New Lenox","Niles","Normal","North Aurora","North Barrington","North Chicago","North Riverside","Northbrook","Northlake","O'Fallon","Oak Brook","Oak Forest","Oak Lawn","Oak Park","Oakbrook Terrace","Oblong","Orland Hills","Orland Park","Oswego","Palatine","Palos Heights","Palos Hills","Palos Park","Paris","Park Forest","Park Ridge","Pekin","Peoria","Peotone","Pesotum","Pinckneyville","Pittsfield","Plainfield","Plano","Pontiac","Port Byron","Princeville","Prospect Heights","Quincy","Rantoul","Richmond","Richton Park","River Forest","Riverside","Riverwoods","Roanoke","Rochester","Rock Falls","Rock Island","Rockdale","Rockford","Rockton","Rolling Meadows","Romeoville","Roselle","Roselle","Round Lake","Round Lake Beach","Round Lake Heights","Round Lake Park","Saint Charles","Salem","Sandwich","Savanna","Savoy","Schaumburg","Schiller Park","Shiloh","Shorewood","Skokie","Sleepy Hollow","South Elgin","Spring Grove","Spring Valley","Springfield","Sterling","Stickney","Streamwood","Sugar Grove","Swansea","Taylorville","Tinley Park","Tower Lake","Troy","Urbana","Vernon Hills","Villa Grove","Villa Park","Wadsworth","Warrenville","Washington","Waterloo","Watseka","Wauconda","Waukegan","West Chicago","West Dundee","Westchester","Westmont","Wheaton","Wheeling","Willowbrook","Wilmette","Winfield","Winnetka","Winthrop Harbor","Wood River","Woodridge","Woodstock","Worth","Zion"
+        ]
+    },
+    {
+        "name": "Indiana",
+        "abbreviation": "IN",
+        "IN": [
+            "Anderson","Angola","Auburn","Avon","Bedford","Bloomington","Bluffton","Brazil","Brownsburg","Burns Harbor","Butler","Carmel","Chesterton","Churubusco","Clarksville","Clear Lake","Columbia City","Columbus","Connersville","Crown Point","Cumberland","Danville","Delphi","Dune Acres","Dyer","East Chicago","Elkhart","Ellettsville","Elwood","Evansville","Fishers","Flora","Fort Wayne","Fowler","Frankfort","Franklin","Garrett","Gary","Goshen","Greenfield","Greenwood","Griffith","Hammond","Hartford City","Hudson","Huntingburg","Huntington","Indianapolis","Jasper","Knox","Kokomo","LaPorte","Lafayette","Lake Station","Lawrence","Lebanon","Lowell","McCordsville","Meridian Hills","Merrillville","Michiana Shores","Michigan City","Middlebury","Mishawaka","Morocco","Muncie","Munster","Nashville","New Albany","New Haven","Newburgh","Noblesville","North Manchester","Orleans","Pendleton","Peru","Petersburg","Plainfield","Portage","Porter","Princeton","Richmond","Rochester","Rushville","Saint John","Schererville","Seymour","Shelbyville","Shipshewana","South Bend","Speedway","Syracuse","Terre Haute","Topeka","Trail Creek","Valparaiso","Vincennes","Wabash","Walkerton","Warsaw","Washington","West Lafayette","Westfield","Westville","Whiteland","Whiting","Winona Lake"
+        ]
+    },
+    {
+        "name": "Iowa",
+        "abbreviation": "IA",
+        "IA": [
+            "Adel","Afton","Albert City","Alexander","Algona","Altoona","Ames","Anita","Ankeny","Aplington","Arnolds Park","Atkins","Aurora","Baxter","Belle Plaine","Belmond","Bettendorf","Bondurant","Boone","Boyden","Buffalo Center","Burlington","Calmar","Carlisle","Carson","Carter Lake","Cedar Falls","Cedar Rapids","Central City","Chariton","Cherokee","Clarence","Clarksville","Clear Lake","Clermont","Clive","Colo","Columbus Junction","Conrad","Coralville","Council Bluffs","Cresco","Danville","Davenport","Decorah","Denison","Denver","Des Moines","Donnellson","Dubuque","Dunlap","Eldridge","Elgin","Ely","Emmetsburg","Evansdale","Fairbank","Fairfield","Fayette","Fort Dodge","Granger","Granger","Grinnell","Griswold","Grundy Center","Harlan","Hartley","Hawarden","Hubbard","Humboldt","Huxley","Independence","Indianola","Iowa City","Iowa Falls","Jesup","Johnston","Knoxville","Lake Park","Lake View","Lawton","Le Claire","Linn Grove","Lisbon","Logan","Long Grove","Lost Nation","Lowden","Maharishi Vedic City","Manchester","Manilla","Maquoketa","Marengo","Marion","Marshalltown","Mason City","McCallsburg","Mechanicsville","Miles","Milford","Mitchellville","Monona","Monticello","Morning Sun","Mount Pleasant","Mount Vernon","Muscatine","Nevada","New Hampton","Newton","North Liberty","Northwood","Norwalk","Odebolt","Oelwein","Oskaloosa","Ottumwa","Oxford Junction","Parkersburg","Paullina","Pella","Plainfield","Pleasant Hill","Plymouth","Pocahontas","Postville","Prairie City","Primghar","Quasqueton","Redfield","Reinbeck","Robins","Rock Falls","Rockwell","Roland","Rolfe","Sergeant Bluff","Shelby","Sheldon","Shell Rock","Sioux Center","Sioux City","Slater","Solon","Spencer","Springville","Stacyville","Stanhope","Stanley","Storm Lake","Tama","Tipton","Treynor","Underwood","University Heights","Urbandale","Van Meter","Wahpeton","Walcott","Waterloo","Waukee","Waverly","Webster City","West Branch","West Burlington","West Des Moines","West Liberty","West Union","Westfield","Whittemore","Williamsburg","Windsor Heights","Wiota","Wyoming","Zearing"
+        ]
+    },
+    {
+        "name": "Kansas",
+        "abbreviation": "KS",
+        "KS": [
+            "Abilene","Andover","Arkansas City","Arma","Baldwin City","Basehor","Bellaire","Beloit","Bonner Springs","Burlington","Chanute","Clearwater","Coffeyville","Colby","Derby","Dodge City","Edwardsville","El Dorado","Elkhart","Ellis","Emporia","Fairway","Florence","Fredonia","Garden City","Gardner","Glen Elder","Goddard","Halstead","Hays","Haysville","Hesston","Holton","Horton","Hugoton","Hutchinson","Iola","Junction City","Kansas City","Kechi","Lansing","Lawrence","Leavenworth","Leawood","Lenexa","Liberal","Lindsborg","Maize","Manhattan","Manhattan","McFarland","McPherson","Merriam","Minneapolis","Mission","Mission Hills","Mulvane","Mulvane","Newton","North Newton","Olathe","Osage City","Ottawa","Overland Park","Paola","Park City","Pittsburg","Prairie Village","Roeland Park","Rose Hill","Russell","Sabetha","Sabetha","Saint John","Salina","Sedgwick","Sedgwick","Shawnee","Spring Hill","Spring Hill","Stockton","Tonganoxie","Topeka","Ulysses","Valley Center","Wellington","Wichita","Winfield"
+        ]
+    },
+    {
+        "name": "Kentucky",
+        "abbreviation": "KY",
+        "KY": [
+            "Ashland","Bardstown","Bellefonte","Bellevue","Bowling Green","Brandenburg","Campbellsville","Carrollton","Covington","Crescent Springs","Crestview Hills","Danville","Dayton","Elkton","Erlanger","Florence","Fort Mitchell","Fort Thomas","Fort Wright","Frankfort","Franklin","Glasgow","Grayson","Greensburg","Guthrie","Hazard","Hopkinsville","Independence","Jeffersontown","Jenkins","Lebanon","Leitchfield","Lexington","Louisville","Ludlow","Madisonville","Mayfield","Maysville","Murray","Newport","Olive Hill","Owensboro","Paducah","Prospect","Radcliff","Richmond","Saint Regis Park","Science Hill","Shelbyville","Shepherdsville","Somerset","Springfield","Union","Versailles","Walton","Warsaw","West Liberty","Williamstown","Winchester"
+        ]
+    },
+    {
+        "name": "Louisiana",
+        "abbreviation": "LA",
+        "LA": [
+            "Addis","Alexandria","Arcadia","Baton Rouge","Bernice","Berwick","Blanchard","Bogalusa","Bossier City","Broussard","Brusly","Carencro","Chatham","Choudrant","Covington","Crowley","Eunice","Farmerville","Ferriday","Franklinton","French Settlement","Golden Meadow","Gonzales","Gretna","Hammond","Hornbeck","Houma","Jennings","Jonesboro","Kenner","Lafayette","Lake Charles","Livingston","Lockport","Loreauville","Mandeville","Minden","Monroe","Morgan City","Natchitoches","New Iberia","New Orleans","New Roads","Opelousas","Pineville","Plaquemine","Ponchatoula","Port Allen","Port Vincent","Rayne","Ruston","Saint Francisville","Saint Gabriel","Saint Joseph","Shreveport","Slidell","Springhill","Sulphur","Sunset","Thibodaux","Ville Platte","Vinton","Washington","Welsh","Westwego","Winnfield","Youngsville","Zwolle"
+        ]
+    },
+    {
+        "name": "Maine",
+        "abbreviation": "ME",
+        "ME": [
+            "Auburn","Augusta","Bangor","Bath","Belfast","Biddeford","Brewer","Caribou","Eastport","Ellsworth","Gardiner","Hallowell","Lewiston","Old Town","Portland","Presque Isle","Rockland","South Portland","Waterville","Westbrook"
+        ]
+    },
+    {
+        "name": "Marshall Islands",
+        "abbreviation": "MH"
+    },
+    {
+        "name": "Maryland",
+        "abbreviation": "MD",
+        "MD": [
+            "Aberdeen","Annapolis","Baltimore","Barnesville","Bel Air","Berlin","Berwyn Heights","Bladensburg","Boonsboro","Bowie","Brentwood","Brookeville","Brunswick","Cambridge","Cecilton","Centreville","Charlestown","Chesapeake Beach","Chesapeake City","Chestertown","Cheverly","Chevy Chase Section Five","Chevy Chase Section Three","Chevy Chase View","Chevy Chase Village","College Park","Crisfield","Cumberland","Denton","District Heights","Easton","Elkton","Emmitsburg","Federalsburg","Frederick","Frostburg","Fruitland","Gaithersburg","Garrett Park","Glen Echo","Glenarden","Greenbelt","Greensboro","Hagerstown","Hampstead","Havre de Grace","Hurlock","Hyattsville","Indian Head","Kensington","Kitzmiller","La Plata","Landover Hills","Laurel","Laytonsville","Leonardtown","Manchester","Martins Additions","Middletown","Morningside","Mount Airy","Mount Airy","Mount Rainier","Mountain Lake Park","Myersville","New Carrollton","New Market","New Windsor","North Beach","North Brentwood","North Chevy Chase","North East","Ocean City","Oxford","Perryville","Pocomoke City","Poolesville","Port Deposit","Queenstown","Ridgely","Riverdale Park","Rock Hall","Rockville","Salisbury","Seat Pleasant","Smithsburg","Snow Hill","Somerset","Sudlersville","Sykesville","Takoma Park","Takoma Park","Taneytown","Thurmont","Trappe","Union Bridge","University Park","Washington Grove","Westminster"
+        ]
+    },
+    {
+        "name": "Massachusetts",
+        "abbreviation": "MA",
+        "MA": [
+            "Agawam","Attleboro","Beverly","Boston","Brockton","Cambridge","Chelsea","Chicopee","Easthampton","Everett","Fall River","Fitchburg","Franklin","Gardner","Gloucester","Haverhill","Holyoke","Lawrence","Leominster","Lowell","Lynn","Malden","Marlborough","Medford","Melrose","Methuen","New Bedford","Newburyport","Newton","Northampton","Peabody","Pittsfield","Quincy","Revere","Salem","Somerville","Springfield","Taunton","Waltham","Watertown","Westfield","Woburn","Worcester"
+        ]
+    },
+    {
+        "name": "Michigan",
+        "abbreviation": "MI",
+        "MI": [
+            "Adrian","Albion","Algonac","Allegan","Allen Park","Alma","Alpena","Ann Arbor","Ann Arbor","Auburn Hills","Bangor","Battle Creek","Bay City","Bear Lake","Beaverton","Belding","Bellaire","Belleville","Berkley","Beulah","Beverly Hills","Big Rapids","Bingham Farms","Birmingham","Blissfield","Bloomfield Hills","Boyne City","Bridgman","Brighton","Brooklyn","Brown City","Buchanan","Burton","Byron","Cadillac","Caro","Cedar Springs","Center Line","Charlevoix","Charlotte","Cheboygan","Chelsea","Chesaning","Chesaning","Clare","Clawson","Clinton","Clio","Coldwater","Coopersville","Corunna","Croswell","Crystal Falls","Davison","DeWitt","Dearborn","Dearborn Heights","Decatur","Detroit","Dexter","Dimondale","Dowagiac","Dundee","Durand","East Grand Rapids","East Jordan","East Lansing","East Tawas","Eastpointe","Eaton Rapids","Edwardsburg","Elk Rapids","Escanaba","Essexville","Evart","Farmington","Farmington Hills","Fennville","Ferndale","Ferrysburg","Flat Rock","Flint","Flushing","Frankenmuth","Frankfort","Franklin","Fraser","Fremont","Garden City","Gibraltar","Gladstone","Gladwin","Grand Beach","Grand Blanc","Grand Haven","Grand Ledge","Grand Rapids","Grandville","Grayling","Greenville","Grosse Pointe","Grosse Pointe Farms","Grosse Pointe Park","Grosse Pointe Shores","Grosse Pointe Woods","Hamtramck","Hancock","Hartford","Hastings","Hazel Park","Highland Park","Hillsdale","Holland","Holly","Houghton","Howell","Hudsonville","Huntington Woods","Ishpeming","Jackson","Jonesville","Kalamazoo","Keego Harbor","Kentwood","Kingsford","Lake Linden","Lake Odessa","Lansing","Lansing","Lansing","Lapeer","Lathrup Village","Laurium","Lincoln Park","Linden","Litchfield","Livonia","Lowell","Ludington","Mackinaw City","Mackinaw City","Madison Heights","Madison Heights","Manchester","Manistee","Manistique","Marine City","Marquette","Marshall","Marysville","Mason","Mattawan","Melvindale","Middleville","Midland","Milan","Monroe","Morrice","Mount Clemens","Mount Morris","Mount Pleasant","Muskegon","Muskegon Heights","Negaunee","New Baltimore","Niles","North Muskegon","Northville","Northville","Norton Shores","Norway","Novi","Oak Park","Orchard Lake","Ortonville","Otsego","Owosso","Parchment","Paw Paw","Pellston","Perry","Petoskey","Pinckney","Plainwell","Plymouth","Pontiac","Port Huron","Portage","Portland","Prescott","Reading","Reed City","Richmond","Riverview","Rochester","Rochester Hills","Rockford","Romulus","Roseville","Royal Oak","Royal Oak","Saginaw","Saint Charles","Saint Clair","Saint Clair Shores","Saint Johns","Saint Joseph","Saint Louis","Saline","Sandusky","Saugatuck","Sault Ste. Marie","Scottville","Shepherd","South Haven","South Lyon","Southfield","Southgate","Sparta","Spring Lake","Springfield","Sterling Heights","Stevensville","Stockbridge","Sturgis","Swartz Creek","Sylvan Lake","Tawas City","Taylor","Tecumseh","Three Rivers","Traverse City","Trenton","Troy","Utica","Vassar","Walker","Walled Lake","Warren","Watervliet","Wayland","Wayne","West Branch","Westland","Westphalia","White Cloud","Whitehall","Wixom","Wolverine Lake","Woodhaven","Wyandotte","Wyoming","Ypsilanti","Zeeland"
+        ]
+    },
+    {
+        "name": "Minnesota",
+        "abbreviation": "MN",
+        "MN": [
+            "Afton","Aitkin","Albany","Albert Lea","Albertville","Alexandria","Andover","Annandale","Anoka","Apple Valley","Arden Hills","Argyle","Aurora","Austin","Avon","Babbitt","Backus","Barnesville","Baxter","Bayport","Becker","Belle Plaine","Belview","Bemidji","Benson","Big Falls","Big Lake","Bigfork","Birchwood","Bird Island","Blackduck","Blaine","Blooming Prairie","Blooming Prairie","Bloomington","Blue Earth","Boy River","Braham","Brainerd","Breezy Point","Brooklyn Center","Brooklyn Park","Brooten","Browerville","Buffalo","Burnsville","Byron","Caledonia","Cambridge","Canby","Cannon Falls","Carlton","Carver","Centerville","Champlin","Chanhassen","Chaska","Chatfield","Chatfield","Chisago City","Chisholm","Circle Pines","City of Scandia","Clarkfield","Clearwater","Clearwater","Cohasset","Cokato","Cold Spring","Cologne","Columbia Heights","Columbus","Comfrey","Comfrey","Coon Rapids","Corcoran","Cottage Grove","Cottonwood","Crookston","Cross Lake","Crystal","Danube","Dassel","Dawson","Dayton","Dayton","Deephaven","Delano","Dellwood","Detroit Lakes","Dodge Center","Dover","Duluth","Eagan","Eagle Bend","Eagle Lake","East Bethel","East Grand Forks","East Gull Lake","Eden Prairie","Eden Valley","Eden Valley","Edina","Elk River","Elko","Eveleth","Excelsior","Eyota","Fairfax","Fairmont","Falcon Heights","Faribault","Farmington","Fergus Falls","Fisher","Floodwood","Forest Lake","Fosston","Franklin","Frazee","Fridley","Gaylord","Gem Lake","Gibbon","Gilbert","Glencoe","Golden Valley","Goodview","Grand Rapids","Grant","Greenfield","Greenwood","Hadley","Halstad","Ham Lake","Hancock","Hanover","Harmony","Hastings","Hawley","Hayfield","Hector","Hermantown","Heron Lake","Hibbing","Hill City","Hopkins","Houston","Howard Lake","Hoyt Lakes","Hugo","Hutchinson","Independence","International Falls","Inver Grove Heights","Isanti","Ivanhoe","Janesville","Jordan","Kasson","Keewatin","Kelliher","Kennedy","Kenyon","Kettle River","La Crescent","Lake Benton","Lake City","Lake Crystal","Lake Elmo","Lake Lillian","Lake Saint Croix Beach","Lake Shore","Lakefield","Lakeland","Lakeland Shores","Lakeville","Lauderdale","Le Sueur","Lilydale","Lindstrom","Lino Lakes","Lismore","Little Canada","Long Lake","Long Prairie","Lonsdale","Luverne","Madelia","Madison","Madison Lake","Mahtomedi","Mankato","Mantorville","Maple Grove","Maple Lake","Maple Plain","Mapleton","Maplewood","Marine on Saint Croix","Mayer","Medford","Medicine Lake","Medina","Melrose","Mendota Heights","Milaca","Milan","Minneapolis","Minnesota Lake","Minnetonka","Minnetonka Beach","Minnetrista","Montevideo","Monticello","Moorhead","Morris","Morristown","Morton","Mound","Mounds View","Mountain Iron","Mountain Lake","Nashwauk","Nevis","New Brighton","New Hope","New Market","New Prague","New Prague","New Richland","New Ulm","New York Mills","Newport","Nisswa","North Branch","North Mankato","North Oaks","North Saint Paul","Northfield","Norwood Young America","Oak Grove","Oak Park Heights","Oakdale","Olivia","Orono","Oronoco","Ortonville","Osakis","Osseo","Otsego","Owatonna","Park Rapids","Parkers Prairie","Paynesville","Pelican Rapids","Pequot Lakes","Perham","Pine City","Pine Island","Pipestone","Plainview","Plymouth","Preston","Princeton","Prior Lake","Proctor","Ramsey","Randall","Red Wing","Redwood Falls","Renville","Richfield","Robbinsdale","Rochester","Rockford","Rockville","Rogers","Roseau","Rosemount","Roseville","Round Lake","Rushford","Saint Anthony","Saint Augusta","Saint Bonifacius","Saint Charles","Saint Clair","Saint Cloud","Saint Cloud","Saint Francis","Saint James","Saint Joseph","Saint Louis Park","Saint Marys Point","Saint Michael","Saint Paul","Saint Paul Park","Saint Peter","Sandstone","Sartell","Sauk Centre","Sauk Rapids","Savage","Sebeka","Shakopee","Sherburn","Shoreview","Shorewood","Silver Bay","Silver Lake","Slayton","Sleepy Eye","South Saint Paul","Spring Grove","Spring Park","Stacy","Stewartville","Stillwater","Sturgeon Lake","Sunfish Lake","Taylors Falls","Thomson","Tonka Bay","Tower","Tracy","Trimont","Truman","Twin Valley","Tyler","Upsala","Vadnais Heights","Victoria","Virginia","Wabasha","Waconia","Wadena","Waite Park","Wanamingo","Waseca","Watertown","Waterville","Waverly","Wayzata","Wells","West Saint Paul","Wheaton","White Bear Lake","Willmar","Windom","Winnebago","Winona","Winsted","Winthrop","Woodbury","Woodland","Worthington","Wyoming","Zumbrota"
+        ]
+    },
+    {
+        "name": "Mississippi",
+        "abbreviation": "MS",
+        "MS": [
+            "Aberdeen","Amory","Bay Saint Louis","Belzoni","Biloxi","Brandon","Canton","Clarksdale","Cleveland","Clinton","Flowood","Gautier","Greenville","Gulfport","Hattiesburg","Jackson","Laurel","Leland","Long Beach","Madison","Meridian","Newton","Ocean Springs","Olive Branch","Oxford","Pascagoula","Pass Christian","Pearl","Picayune","Raymond","Ridgeland","Southaven","Starkville","Tupelo","Vicksburg","Walnut Grove","Waveland","West Point"
+        ]
+    },
+    {
+        "name": "Missouri",
+        "abbreviation": "MO",
+        "MO": [
+            "Albany","Arnold","Ballwin","Belton","Black Jack","Blue Springs","Boonville","Branson","Brentwood","Bridgeton","Camdenton","Cameron","Cameron","Cape Girardeau","Centralia","Chesterfield","Chillicothe","Clarkson Valley","Clayton","Columbia","Cottleville","Crestwood","Creve Coeur","Des Peres","Eldon","Ellisville","Eureka","Excelsior Springs","Farmington","Fenton","Ferguson","Festus","Florissant","Fulton","Gladstone","Glendale","Grain Valley","Grandview","Harrisonville","Hazelwood","Higginsville","Hollister","Iberia","Independence","Jackson","Jefferson City","Joplin","Joplin","Kansas City","Kansas City","Kansas City","Kirksville","Kirkwood","Lake Saint Louis","Lebanon","Lees Summit","Liberty","Manchester","Maplewood","Marshall","Maryland Heights","Maryville","Mexico","Moberly","Monett","Monett","Mount Vernon","Neosho","Nevada","New Franklin","New Madrid","Nixa","Normandy","North Kansas City","O'Fallon","Oak Grove","Oakland","Odessa","Olivette","Osage Beach","Overland","Ozark","Pacific","Park Hills","Parkville","Pasadena Hills","Piedmont","Platte City","Pleasant Hill","Poplar Bluff","Raymore","Raytown","Republic","Richmond Heights","Riverside","Rock Hill","Rolla","Saint Charles","Saint Clair","Saint James","Saint Johns","Saint Joseph","Saint Louis","Saint Peters","Saint Robert","Sedalia","Seymour","Sikeston","Sikeston","Slater","Springfield","Sturgeon","Sugar Creek","Sunset Hills","Town and Country","Union","University City","Warrensburg","Warrenton","Warsaw","Warson Woods","Washington","Webster Groves","Wentzville","West Plains","Wildwood","Willard","Woodson Terrace"
+        ]
+    },
+    {
+        "name": "Montana",
+        "abbreviation": "MT",
+        "MT": [
+            "Anaconda","Belgrade","Billings","Bozeman","Butte","Great Falls","Hamilton","Havre","Helena","Kalispell","Laurel","Libby","Missoula","Shelby"
+        ]
+    },
+    {
+        "name": "Nebraska",
+        "abbreviation": "NE",
+        "NE": [
+            "Alliance","Alma","Aurora","Beatrice","Bellevue","Benkelman","Blair","Bloomfield","Cedar Creek","Creighton","Crete","Elkhorn","Falls City","Fort Calhoun","Fremont","Geneva","Gering","Gothenburg","Grand Island","Gretna","Hastings","Henderson","Holdrege","Imperial","Kearney","Kimball","Lincoln","Louisville","Norfolk","North Platte","Ogallala","Omaha","Oshkosh","Papillion","Ralston","Scottsbluff","Seward","South Bend","South Sioux City","Springfield","Sutton","Union","Valley","Wayne","Weeping Water","West Point","York"
+        ]
+    },
+    {
+        "name": "Nevada",
+        "abbreviation": "NV",
+        "NV": [
+            "Boulder City","Carlin","Carson City","Elko","Fallon","Henderson","Las Vegas","Mesquite","North Las Vegas","Reno","Sparks","West Wendover","Yerington"
+        ]
+    },
+    {
+        "name": "New Hampshire",
+        "abbreviation": "NH",
+        "NH": [
+            "Berlin","Claremont","Concord","Dover","Keene","Laconia","Lebanon","Manchester","Nashua","Portsmouth","Rochester","Somersworth"
+        ]
+    },
+    {
+        "name": "New Jersey",
+        "abbreviation": "NJ",
+        "NJ": [
+            "Allendale","Asbury Park","Atlantic City","Atlantic Highlands","Avalon","Barnegat Light","Bayonne","Beach Haven","Beachwood","Bellmawr","Belvidere","Boonton","Brielle","Brigantine","Burlington","Butler","Caldwell","Camden","Cape May","Carteret","Chester","Clinton","Closter","Collingswood","Dover","East Orange","Eatontown","Elizabeth","Englewood","Englishtown","Fair Haven","Fair Lawn","Fanwood","Florham Park","Fort Lee","Gibbsboro","Glen Rock","Hackensack","Hackettstown","Haddon Heights","Harvey Cedars","Hasbrouck Heights","Hawthorne","High Bridge","Hightstown","Hillsdale","Hoboken","Hopatcong","Island Heights","Jersey City","Kearny","Lavallette","Lincoln Park","Long Branch","Madison","Magnolia","Manasquan","Mantoloking","Margate City","Medford Lakes","Mendham","Merchantville","Millville","Montvale","Mount Arlington","Mountain Lakes","Neptune City","Netcong","New Brunswick","New Providence","Newark","North Plainfield","Oakland","Old Tappan","Passaic","Paterson","Pennington","Perth Amboy","Pine Hill","Pitman","Plainfield","Point Pleasant","Point Pleasant Beach","Rahway","Ramsey","Ridgefield Park","Ridgewood","Ringwood","Roseland","Roselle Park","Rutherford","Sayreville","Sea Isle City","Secaucus","Ship Bottom","Somerville","South Plainfield","South River","Spotswood","Spring Lake Heights","Stone Harbor","Stratford","Summit","Tenafly","Tinton Falls","Trenton","Ventnor City","Vineland","Waldwick","Watchung","West Paterson","Westfield","Wood-Ridge","Woodbury","Woodcliff Lake"
+        ]
+    },
+    {
+        "name": "New Mexico",
+        "abbreviation": "NM",
+        "NM": [
+            "Alamogordo","Albuquerque","Angel Fire","Artesia","Aztec","Capitan","Carlsbad","Cloudcroft","Clovis","Corrales","Deming","Espanola","Farmington","Gallup","Hobbs","Las Cruces","Los Lunas","Los Ranchos de Albuquerque","Lovington","Portales","Red River","Rio Rancho","Rio Rancho","Roswell","Ruidoso Downs","Santa Fe","Silver City","Taos","Taos Ski Valley","Truth or Consequences","Tucumcari"
+        ]
+    },
+    {
+        "name": "New York",
+        "abbreviation": "NY",
+        "NY": [
+            "Akron","Albany","Alfred","Allegany","Amityville","Arcade","Ardsley","Attica","Auburn","Babylon","Batavia","Beacon","Bellport","Binghamton","Boonville","Brockport","Bronxville","Buchanan","Buffalo","Canandaigua","Canastota","Canton","Catskill","Cayuga","Cedarhurst","Chittenango","Churchville","City of Tonawanda","Clinton","Cobleskill","Cohoes","Colonie","Corinth","Cortland","Coxsackie","Croton-on-Hudson","Dansville","Depew","Dobbs Ferry","Dryden","East Aurora","East Hampton","East Hills","East Rockaway","East Williston","Elbridge","Elmira","Elmsford","Esperance","Fair Haven","Farmingdale","Floral Park","Flower Hill","Franklinville","Freeport","Fulton","Garden City","Geneseo","Geneva","Geneva","Glen Cove","Glens Falls","Gloversville","Great Neck","Great Neck Plaza","Hamburg","Harrison","Hastings-on-Hudson","Hempstead","Hillburn","Hilton","Holland Patent","Hornell","Horseheads","Ilion","Ithaca","Johnson City","Johnstown","Kenmore","Kingston","Lackawanna","Lancaster","Lansing","Larchmont","Lawrence","Liberty","Lindenhurst","Liverpool","Lockport","Long Beach","Malverne","Mamaroneck","Manlius","Marcellus","Massapequa Park","Massena","Matinecock","Maybrook","Mechanicville","Medina","Menands","Middletown","Monroe","Monticello","Moravia","Mount Morris","Mount Vernon","New Hartford","New Hyde Park","New Paltz","New Rochelle","New York","New York","New York","New York","New York","Newburgh","Niagara Falls","North Syracuse","Norwich","Nyack","Oakfield","Ocean Beach","Ogdensburg","Old Field","Olean","Oneida","Oneonta","Orchard Park","Ossining","Oswego","Otisville","Palmyra","Patchogue","Peekskill","Pelham","Pelham Manor","Perry","Phelps","Pittsford","Pleasantville","Port Byron","Port Chester","Port Jefferson","Port Jervis","Poughkeepsie","Red Hook","Rochester","Rockville Centre","Rome","Round Lake","Rye","Rye Brook","Saddle Rock","Saltaire","Sands Point","Saratoga Springs","Saugerties","Scarsdale","Sherrill","Skaneateles","Sodus Point","Southampton","Spring Valley","Stamford","Suffern","Syracuse","Troy","Trumansburg","Tuckahoe","Union Springs","Utica","Victor","Village of Irvington","Waterford","Watertown","Watervliet","Webster","Weedsport","West Carthage","Westbury","Westhampton Beach","White Plains","Whitesboro","Williamsville","Wilson","Yonkers"
+        ]
+    },
+    {
+        "name": "North Carolina",
+        "abbreviation": "NC",
+        "NC": [
+            "Aberdeen","Ahoskie","Albemarle","Andrews","Angier","Apex","Archdale","Asheboro","Asheville","Atlantic Beach","Ayden","Badin","Bald Head Island","Banner Elk","Beaufort","Beech Mountain","Beech Mountain","Belhaven","Belmont","Belville","Benson","Bermuda Run","Bessemer City","Bethel","Beulaville","Biltmore Forest","Biscoe","Black Creek","Black Mountain","Blowing Rock","Boiling Spring Lakes","Boiling Springs","Boone","Brevard","Bridgeton","Burgaw","Burlington","Burnsville","Calabash","Canton","Carolina Beach","Carolina Shores","Carrboro","Carthage","Cary","Caswell Beach","Chapel Hill","Charlotte","Cherryville","China Grove","Claremont","Clayton","Clemmons","Clinton","Coats","Columbus","Concord","Connelly Springs","Conover","Cooleemee","Cornelius","Cramerton","Creedmoor","Dallas","Davidson","Denton","Dillsboro","Drexel","Duck","Dunn","Durham","East Spencer","Eden","Edenton","Elizabeth City","Elizabethtown","Elkin","Elkin","Elm City","Elon","Emerald Isle","Enfield","Erwin","Fair Bluff","Fairmont","Farmville","Fayetteville","Flat Rock","Fletcher","Forest City","Foxfire","Franklin","Franklinville","Fuquay-Varina","Garner","Gastonia","Gibsonville","Goldsboro","Graham","Granite Falls","Granite Quarry","Green Level","Greensboro","Greenville","Grifton","Harrisburg","Havelock","Henderson","Hendersonville","Hickory","Hickory","High Point","Highlands","Hillsborough","Hobgood","Holden Beach","Holly Springs","Hope Mills","Hudson","Huntersville","Indian Beach","Indian Trail","Jacksonville","Jamestown","Kannapolis","Kannapolis","Kenly","Kernersville","Kill Devil Hills","King","Kings Mountain","Kinston","Kitty Hawk","Knightdale","Kure Beach","Lake Lure","Lake Park","Lake Waccamaw","Laurel Park","Laurinburg","Leland","Lenoir","Lewisville","Lexington","Liberty","Lillington","Lincolnton","Locust","Longview","Lucama","Lumberton","Madison","Maggie Valley","Maiden","Manteo","Marion","Mars Hill","Marvin","Matthews","Mayodan","Mebane","Middlesex","Mills River","Mineral Springs","Mint Hill","Mocksville","Monroe","Montreat","Mooresville","Morehead City","Morganton","Morrisville","Mount Airy","Mount Gilead","Mount Holly","Nags Head","Nashville","New Bern","Newland","Newton","Newton Grove","North Topsail Beach","North Wilkesboro","Northwest","Oak Island","Oak Ridge","Oakboro","Ocean Isle Beach","Oriental","Oxford","Pikeville","Pilot Mountain","Pine Knoll Shores","Pinehurst","Pinetops","Pineville","Pittsboro","Pleasant Garden","Plymouth","Polkton","Raeford","Raleigh","Ramseur","Randleman","Red Springs","Reidsville","River Bend","Roanoke Rapids","Rockwell","Rocky Mount","Rocky Mount","Rolesville","Rowland","Roxboro","Rural Hall","Saint Pauls","Salisbury","Sanford","Selma","Seven Devils","Shallotte","Shelby","Siler City","Smithfield","Snow Hill","Southern Pines","Southern Shores","Southport","Spencer","Spindale","Spring Lake","Spruce Pine","Stallings","Stanfield","Stanley","Statesville","Stokesdale","Stoneville","Summerfield","Surf City","Swansboro","Sylva","Tarboro","Taylorsville","Thomasville","Tobaccoville","Topsail Beach","Trinity","Troutman","Troy","Tryon","Unionville","Valdese","Wadesboro","Wake Forest","Wallace","Walnut Creek","Warsaw","Washington","Waxhaw","Waynesville","Weaverville","Weddington","Wendell","Wesley Chapel","West Jefferson","Whispering Pines","Whiteville","Wilkesboro","Williamston","Wilmington","Wilson","Wingate","Winston-Salem","Winterville","Wrightsville Beach","Yadkinville","Yanceyville","Zebulon"
+        ]
+    },
+    {
+        "name": "North Dakota",
+        "abbreviation": "ND",
+        "ND": [
+            "Beulah","Bismarck","Bottineau","Devils Lake","Dickinson","Fargo","Grand Forks","Jamestown","Killdeer","Kulm","Mandan","Minot","Mohall","Oakes","Rugby","Surrey","Turtle Lake","Valley City","Wahpeton","Williston"
+        ]
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "abbreviation": "MP"
+    },
+    {
+        "name": "Ohio",
+        "abbreviation": "OH",
+        "OH": [
+            "Akron","Alliance","Archbold","Ashland","Ashtabula","Athens","Aurora","Avon","Avon Lake","Baltimore","Barberton","Bay Village","Beachwood","Beavercreek","Bedford","Bellbrook","Bellefontaine","Bellevue","Bellville","Bentleyville","Berea","Bexley","Blue Ash","Bowling Green","Broadview Heights","Brook Park","Brookville","Brunswick","Cambridge","Campbell","Canal Winchester","Canal Winchester","Canfield","Canton","Carlisle","Carlisle","Celina","Centerville","Chagrin Falls","Chardon","Cheviot","Chillicothe","Cincinnati","City of Cuyahoga Falls","Clayton","Cleveland","Cleveland Heights","Cleves","Clyde","Coldwater","Columbus","Columbus","Columbus","Columbus","Conneaut","Cortland","Coshocton","Crestline","Crooksville","Cuyahoga Heights","Dayton","Defiance","Delaware","Dover","Dublin","East Liverpool","East Palestine","Eastlake","Elyria","Englewood","Euclid","Euclid","Fairborn","Fairfax","Fairfield","Fairlawn","Fairview Park","Findlay","Forest Park","Fostoria","Franklin","Fremont","Gahanna","Galion","Gallipolis","Garrettsville","Genoa","Germantown","Girard","Glendale","Golf Manor","Grand Rapids","Grandview Heights","Granville","Green","Greenhills","Greenville","Grove City","Groveport","Hamilton","Harrison","Heath","Hebron","Hilliard","Hubbard","Huber Heights","Hudson","Huntsville","Huron","Independence","Johnstown","Kent","Kettering","Kirtland","Lakewood","Lancaster","Lebanon","Lexington","Lima","Lincoln Heights","Lockland","London","Lorain","Louisville","Loveland","Macedonia","Madeira","Madison","Mansfield","Maple Heights","Mason","Massillon","Maumee","Mayfield","Mayfield Heights","Medina","Mentor","Miamisburg","Middlefield","Middletown","Millersburg","Minster","Monroe","Monroeville","Montgomery","Moraine","Moreland Hills","Mount Gilead","Mount Healthy","Mount Vernon","Munroe Falls","Napoleon","Navarre","New Albany","New Bremen","New Knoxville","New Lebanon","New Lexington","New London","New Philadelphia","Newark","Newcomerstown","Niles","North Canton","North College Hill","North Olmsted","North Perry","North Ridgeville","North Royalton","Northwood","Norton","Norwalk","Norwood","Oak Harbor","Oakwood","Obetz","Olmsted Falls","Ontario","Orange","Oregon","Orrville","Orwell","Ottawa","Ottawa Hills","Ottoville","Oxford","Painesville","Parma","Pataskala","Pataskala","Pemberville","Pepper Pike","Perrysburg","Pickerington","Piqua","Port Clinton","Portsmouth","Powell","Ravenna","Reading","Reminderville","Reynoldsburg","Richfield","Rittman","Riverside","Rocky River","Rossford","Saint Bernard","Saint Clairsville","Salem","Sandusky","Sebring","Seven Hills","Seville","Shaker Heights","Sharonville","Shawnee Hills","Sidney","Solon","South Euclid","South Point","South Russell","Springboro","Springdale","Springfield","Steubenville","Stow","Streetsboro","Strongsville","Swanton","Sylvania","Tallmadge","The Village of Indian Hill","Thurston","Tipp City","Toledo","Trenton","Trotwood","Troy","Twinsburg","Union","University Heights","Upper Arlington","Urbana","Valley View","Van Wert","Vandalia","Versailles","Wadsworth","Waterville","Wauseon","Waverly","West Carrollton City","West Jefferson","Westerville","Westlake","Whitehall","Whitehouse","Wickliffe","Willard","Willoughby","Wilmington","Worthington","Wyoming","Xenia","Yellow Springs","Youngstown","Youngstown","Zanesville"
+        ]
+    },
+    {
+        "name": "Oklahoma",
+        "abbreviation": "OK",
+        "OK": [
+            "Ada","Altus","Alva","Anadarko","Ardmore","Bartlesville","Bixby","Bradley","Broken Arrow","Buffalo","Chandler","Chickasha","Choctaw","Claremore","Clinton","Coweta","Davis","Del City","Duncan","Durant","Edmond","El Reno","Elk City","Enid","Frederick","Goodwell","Grove","Guthrie","Guymon","Harrah","Jenks","Lawton","Marietta","McAlester","Miami","Midwest City","Moore","Muskogee","Mustang","Nichols Hills","Nicoma Park","Norman","Oklahoma City","Oklahoma City","Owasso","Perkins","Piedmont","Ponca City","Poteau","Pryor","Purcell","Sallisaw","Sand Springs","Sapulpa","Shawnee","Skiatook","Skiatook","Skiatook","Stillwater","Tahlequah","Tecumseh","The Village","Tishomingo","Tulsa","Tulsa","Tulsa","Tulsa","Velma","Verdigris","Waynoka","Weatherford","Woodward","Yukon"
+        ]
+    },
+    {
+        "name": "Oregon",
+        "abbreviation": "OR",
+        "OR": [
+            "Albany","Ashland","Aumsville","Aurora","Baker City","Bandon","Banks","Bay City","Beaverton","Bend","Boardman","Brookings","Brownsville","Canby","Cannon Beach","Carlton","Cascade Locks","Central Point","Coburg","Columbia City","Condon","Coos Bay","Coquille","Cornelius","Corvallis","Cottage Grove","Creswell","Dallas","Damascus","Depoe Bay","Drain","Dundee","Dunes City","Durham","Eagle Point","Echo","Elgin","Elkton","Estacada","Eugene","Fairview","Falls City","Florence","Forest Grove","Gladstone","Glendale","Gold Beach","Gold Hill","Grants Pass","Gresham","Haines","Halsey","Happy Valley","Heppner","Hermiston","Hillsboro","Hood River","Hubbard","Idanha","Independence","John Day","Jordan Valley","Junction City","Keizer","King City","Klamath Falls","La Grande","Lafayette","Lake Oswego","Lakeview","Lebanon","Lincoln City","Lyons","McMinnville","Medford","Mill City","Milton-Freewater","Milwaukie","Molalla","Monmouth","Mosier","Mount Angel","Myrtle Creek","Newberg","Newport","North Plains","Nyssa","Oakridge","Ontario","Oregon City","Paisley","Pendleton","Philomath","Phoenix","Pilot Rock","Port Orford","Portland","Prairie City","Prineville","Redmond","Reedsport","Rockaway Beach","Rogue River","Roseburg","Saint Helens","Salem","Sandy","Scappoose","Scotts Mills","Seaside","Shady Cove","Sherwood","Silverton","Sisters","Spray","Springfield","Stayton","Sublimity","Sutherlin","Sweet Home","Talent","Tangent","The Dalles","Tigard","Tillamook","Toledo","Troutdale","Tualatin","Turner","Union","Vale","Veneta","Vernonia","Waldport","Wallowa","West Linn","Wilsonville","Woodburn","Yachats","Yamhill"
+        ]
+    },
+    {
+        "name": "Palau",
+        "abbreviation": "PW"
+    },
+    {
+        "name": "Pennsylvania",
+        "abbreviation": "PA",
+        "PA": [
+            "Alburtis","Allentown","Altoona","Ambler","Ambridge","Aspinwall","Atglen","Baldwin","Bally","Bellefonte","Bellevue","Bentleyville","Bethel Park","Bethlehem","Bethlehem","Bloomsburg","Blossburg","Bradford","Bridgeport","Brookhaven","Camp Hill","Carlisle","Carroll Valley","Carrolltown","Castle Shannon","Chambersburg","Chester","Christiana","Christiana","Churchill","Clarion","Clarks Summit","Coatesville","Cochranton","Collegeville","Coopersburg","Coplay","Dallas","Dallastown","Danville","Darby","Dillsburg","Dormont","Downingtown","Doylestown","Dupont","Dushore","Eagles Mere","Easton","Ebensburg","Eddystone","Edgewood","Edinboro","Elizabethtown","Elverson","Ephrata","Erie","Farrell","Forest Hills","Fox Chapel","Franklin Park","Franklintown","Gettysburg","Green Tree","Greensburg","Hamburg","Hanover","Harrisburg","Hatboro","Hatfield","Hazleton","Hermitage","Hollidaysburg","Homewood","Huntingdon","Indian Lake","Ivyland","Jonestown","Kennett Square","Kingston","Kutztown","Laflin","Lancaster","Langhorne Manor","Lansdale","Lebanon","Lincoln","Liverpool","Lock Haven","Lower Burrell","Macungie","Mahanoy City","Malvern","Markleysburg","Marysville","McKeesport","Mechanicsburg","Media","Middletown","Millersville","Monongahela","Monroeville","Moosic","Morrisville","Murrysville","Narberth","Nazareth","New Castle","New Freedom","Newtown","Norristown","Northumberland","Osborne","Parkesburg","Parkside","Patton","Pen Argyl","Perkasie","Philadelphia","Phoenixville","Pittsburgh","Pleasant Hills","Plum","Pottstown","Pottsville","Punxsutawney","Quakertown","Reading","Red Lion","Riverside","Saint Marys","Saltsburg","Saxonburg","Sayre","Schwenksville","Scranton","Selinsgrove","Seven Fields","Sharon Hill","Sharpsville","Shippensburg","Sinking Spring","Somerset","Spring Grove","State College","Steelton","Stroudsburg","Swarthmore","Swoyersville","Terre Hill","Titusville","Trafford","Trafford","Trumbauersville","Tyrone","Warren","Washington","Waterford","West Chester","West Mifflin","West Reading","Westmont","White Oak","Whitehall","Wilkes-Barre","Wilkinsburg","Williamsport","Wilson","Wormleysburg","York","Youngwood","Zelienople"
+        ]
+    },
+    {
+        "name": "Puerto Rico",
+        "abbreviation": "PR"
+    },
+    {
+        "name": "Rhode Island",
+        "abbreviation": "RI",
+        "RI": [
+            "Central Falls","Cranston","East Providence","Newport","Pawtucket","Providence","Warwick","Woonsocket"
+        ]
+    },
+    {
+        "name": "South Carolina",
+        "abbreviation": "SC",
+        "SC": [
+            "Aiken","Anderson","Andrews","Andrews","Bamberg","Batesburg-Leesville","Batesburg-Leesville","Beaufort","Bennettsville","Briarcliffe Acres","Cayce","Central","Chapin","Charleston","Cheraw","Chester","Clemson","Clinton","Columbia","Conway","Cowpens","Easley","Easley","Edisto Beach","Elloree","Florence","Folly Beach","Fort Mill","Goose Creek","Greenville","Greenwood","Greer","Greer","Hartsville","Hilton Head Island","Irmo","Irmo","Isle of Palms","Kiawah Island","Lexington","Mount Pleasant","Mullins","Myrtle Beach","Newberry","North","North Augusta","North Charleston","North Myrtle Beach","Orangeburg","Pendleton","Port Royal","Prosperity","Ridgeland","Rock Hill","Saluda","Seabrook Island","Seneca","Simpsonville","Spartanburg","Springdale","Summerville","Summerville","Summerville","Sumter","Surfside Beach","Swansea","Tega Cay","Varnville","Wagener","Walterboro","West Columbia","Williston","Woodruff","Yemassee","Yemassee","York"
+        ]
+    },
+    {
+        "name": "South Dakota",
+        "abbreviation": "SD",
+        "SD": [
+            "Aberdeen","Alcester","Artesian","Baltic","Beresford","Beresford","Box Elder","Brandon","Bridgewater","Bristol","Brookings","Canton","Castlewood","Clear Lake","Colman","Custer","De Smet","Deadwood","Dell Rapids","Elk Point","Faith","Faulkton","Flandreau","Gary","Gregory","Harrisburg","Hartford","Henry","Herreid","Highmore","Hot Springs","Howard","Humboldt","Huron","Kadoka","Kimball","Lake Andes","Lake Norden","Lennox","Letcher","Madison","Marion","Menno","Milbank","Mitchell","New Underwood","Newell","Nisland","North Sioux City","Pierre","Rapid City","Redfield","Salem","Sioux Falls","Sioux Falls","Spearfish","Sturgis","Tea","Tulare","Valley Springs","Vermillion","Volga","Wagner","Warner","Watertown","Whitewood","Willow Lake","Winner","Woonsocket","Worthing","Yankton"
+        ]
+    },
+    {
+        "name": "Tennessee",
+        "abbreviation": "TN",
+        "TN": [
+            "Arlington","Ashland City","Athens","Bartlett","Brentwood","Brentwood","Bristol","Chattanooga","Clarksville","Cleveland","Clifton","Clinton","Collierville","Columbia","Cookeville","Covington","Decherd","Dickson","Dunlap","Elizabethton","Fairview","Farragut","Fayetteville","Franklin","Gatlinburg","Germantown","Goodlettsville","Hendersonville","Jackson","Jellico","Johnson City","Kingsport","Kingsport","Kingston Springs","Knoxville","La Vergne","Lakeland","Lawrenceburg","Lebanon","Lewisburg","Lexington","Loretto","Maryville","Medon","Memphis","Milan","Millington","Morristown","Mount Juliet","Munford","Murfreesboro","Oak Ridge","Oak Ridge","Oliver Springs","Oliver Springs","Pegram","Piperton","Pulaski","Red Bank","Savannah","Sevierville","Shelbyville","Signal Mountain","Smithville","Smyrna","Soddy-Daisy","Spring Hill","Troy","Unicoi","Waynesboro","White House","White House"
+        ]
+    },
+    {
+        "name": "Texas",
+        "abbreviation": "TX",
+        "TX": [
+            "Abilene","Abilene","Addison","Alamo","Alamo Heights","Allen","Alpine","Alvarado","Alvin","Amarillo","Andrews","Angleton","Annetta","Argyle","Arlington","Austin","Azle","Azle","Balch Springs","Bartonville","Bastrop","Bay City","Baytown","Beaumont","Bedford","Bellaire","Belton","Benbrook","Big Spring","Boerne","Brenham","Bridge City","Brownfield","Brownsville","Brownwood","Bryan","Buda","Bulverde","Bunker Hill Village","Burkburnett","Burleson","Burnet","Canyon","Carrollton","Carthage","Cedar Hill","Cedar Park","Cleburne","Clute","College Station","Colleyville","Columbus","Conroe","Converse","Coppell","Copperas Cove","Corinth","Corpus Christi","Corsicana","Crockett","Crowley","Dallas","Dallas","Dallas","Dallas","Dallas","Dallas","Dallas","Dallas","Dallas","Dallas","DeSoto","Deer Park","Del Rio","Denison","Denton","Dickinson","Donna","Double Oak","Dumas","Duncanville","Eagle Pass","Edinburg","El Campo","El Paso","Ennis","Euless","Fairview","Farmers Branch","Flatonia","Flower Mound","Fort Stockton","Fort Worth","Fredericksburg","Freeport","Friendswood","Frisco","Gainesville","Galveston","Garland","Gatesville","Georgetown","Gonzales","Granbury","Granite Shoals","Grapevine","Greenville","Haltom City","Hamilton","Harker Heights","Harlingen","Hearne","Henderson","Hewitt","Highland Park","Highland Village","Hill Country Village","Hilshire Village","Houston","Humble","Hunters Creek Village","Huntsville","Hurst","Irving","Jacksonville","Jasper","Jersey Village","Katy","Katy","Katy","Keller","Kemah","Kemah","Kerrville","Killeen","Kingsville","Krum","Kyle","La Grange","La Porte","Lacy-Lakeview","Lago Vista","Lake Jackson","Lakeway","Lamesa","Lampasas","Lancaster","Laredo","League City","Leander","Leon Valley","Levelland","Lewisville","Littlefield","Live Oak","Livingston","Lockhart","Longview","Lowry Crossing","Lubbock","Lucas","Lufkin","Mansfield","Manvel","Marble Falls","Marshall","McAllen","McKinney","Mesquite","Midland","Midlothian","Mission","Missouri City","Missouri City","Mount Pleasant","Nacogdoches","Nassau Bay","New Braunfels","Newark","Niederwald","Niederwald","North Richland Hills","Oak Ridge North","Odessa","Orange","Overton","Palacios","Palestine","Pampa","Pantego","Pasadena","Pearland","Pearland","Pearland","Perryton","Pflugerville","Plainview","Plano","Port Aransas","Port Arthur","Port Lavaca","Portland","Prosper","Quintana","Red Oak","Richardson","Richland Hills","Rio Grande City","River Oaks","Rockport","Rockwall","Rosenberg","Round Rock","Rowlett","Royse City","Rusk","Sachse","Saginaw","San Angelo","San Antonio","San Benito","San Marcos","San Saba","Santa Fe","Schertz","Seabrook","Sealy","Seguin","Selma","Seymour","Shady Shores","Shenandoah","Sherman","Smithville","Snyder","Socorro","Sonora","Southlake","Southside Place","Spring Valley","Stafford","Stephenville","Sugar Land","Sulphur Springs","Sunnyvale","Sweeny","Tahoka","Taylor","Temple","Terrell","Texarkana","Texas City","The Colony","The Hills","Tomball","Trophy Club","Trophy Club","Tyler","Universal City","University Park","Victoria","Waco","Watauga","Waxahachie","Weatherford","Webster","Weslaco","West Lake Hills","West Orange","West University Place","Westlake","Weston","Westover Hills","Wharton","White Oak","White Settlement","Wichita Falls","Willow Park","Wimberley","Windcrest","Woodway","Wylie","Yoakum","Yoakum"
+        ]
+    },
+    {
+        "name": "Utah",
+        "abbreviation": "UT",
+        "UT": [
+            "Alpine","Alta","American Fork","Beaver","Bountiful","Brigham City","Cedar City","Cedar Hills","Centerville","Clearfield","Clinton","Cottonwood Heights","Delta","Draper","Enoch","Farmington","Fruit Heights","Garden City","Gunnison","Heber City","Herriman","Holladay","Huntsville","Hurricane","Ivins","Kanab","Kaysville","Layton","Lindon","Logan","Mapleton","Mendon","Midvale","Moab","North Logan","North Ogden","North Salt Lake","Ogden","Orem","Park City","Payson","Pleasant Grove","Price","Provo","Richfield","Riverdale","Riverton","Roy","Saint George","Salt Lake City","Sandy City","Santa Clara","Smithfield","South Jordan","South Salt Lake","Spanish Fork","Springville","Sunset","Syracuse","Taylorsville","Tooele","Tremonton","Vernal","Washington","West Bountiful","West Jordan","Woods Cross"
+        ]
+    },
+    {
+        "name": "Vermont",
+        "abbreviation": "VT",
+        "VT": [
+            "Barre","Bellows Falls","Burlington","Essex Junction","Johnson","Ludlow","Manchester","Montpelier","Newfane","Newport","Rutland","South Burlington","Swanton Village","Vergennes","Waterbury","Winooski"
+        ]
+    },
+    {
+        "name": "Virgin Islands",
+        "abbreviation": "VI"
+    },
+    {
+        "name": "Virginia",
+        "abbreviation": "VA",
+        "VA": [
+            "Abingdon","Alexandria","Ashland","Berryville","Big Stone Gap","Blacksburg","Bowling Green","Bridgewater","Bristol","Broadway","Buena Vista","Cape Charles","Charlottesville","Chesapeake","Chincoteague","Christiansburg","Clifton Forge","Colonial Heights","Covington","Culpeper","Damascus","Danville","Dayton","Dublin","Emporia","Fairfax","Falls Church","Farmville","Fredericksburg","Grottoes","Hampton","Harrisonburg","Herndon","Hopewell","La Crosse","Leesburg","Lexington","Louisa","Luray","Lynchburg","Manassas","Manassas Park","Marion","Martinsville","Middleburg","Mount Jackson","New Market","Newport News","Norfolk","Norton","Norton","Orange","Pearisburg","Petersburg","Poquoson","Portsmouth","Pulaski","Purcellville","Radford","Richmond","Roanoke","Rocky Mount","Round Hill","Rural Retreat","Salem","Scottsville","Scottsville","Shenandoah","Smithfield","South Boston","South Hill","Staunton","Suffolk","Tazewell","Vienna","Vinton","Virginia Beach","Warrenton","Waynesboro","West Point","Winchester","Wytheville"
+        ]
+    },
+    {
+        "name": "Washington",
+        "abbreviation": "WA",
+        "WA": [
+            "Aberdeen","Almira","Anacortes","Arlington","Auburn","Battle Ground","Beaux Arts Village","Bellevue","Bellingham","Benton City","Bingen","Blaine","Bonney Lake","Bothell","Bremerton","Brier","Burien","Burlington","Camas","Carnation","Cashmere","Castle Rock","Centralia","Chelan","Cheney","Clyde Hill","Colfax","College Place","Concrete","Connell","Covington","Dayton","Des Moines","DuPont","Duvall","East Wenatchee","Edgewood","Edmonds","Ellensburg","Enumclaw","Ephrata","Everett","Federal Way","Ferndale","Fife","Forks","Friday Harbor","George","Gig Harbor","Grandview","Hoquiam","Ilwaco","Issaquah","Kalama","Kelso","Kenmore","Kennewick","Kent","Kirkland","La Center","La Conner","Lacey","Lake Forest Park","Lake Stevens","Lakewood","Longview","Lynden","Lynnwood","Maple Valley","Marysville","Medical Lake","Medina","Mercer Island","Mill Creek","Milton","Monroe","Montesano","Mount Vernon","Mountlake Terrace","Mukilteo","Newcastle","Newport","Normandy Park","North Bend","Oak Harbor","Ocean Shores","Olympia","Pacific","Pasco","Port Angeles","Port Townsend","Poulsbo","Pullman","Puyallup","Redmond","Renton","Richland","Sammamish","Seattle","Sedro-Woolley","Selah","Sequim","Shelton","Shoreline","Snohomish","Snoqualmie","Spokane","Spokane Valley","Steilacoom","Sultan","Sumner","Sunnyside","Tacoma","Tonasket","Tumwater","Union Gap","University Place","Vancouver","Walla Walla","Washougal","Waterville","Wenatchee","Westport","Wilbur","Woodinville","Woodland","Yakima","Yarrow Point"
+        ]
+    },
+    {
+        "name": "West Virginia",
+        "abbreviation": "WV",
+        "WV": [
+            "Beckley","Bluefield","Bridgeport","Buckhannon","Charleston","Clarksburg","Huntington","Huntington","Lewisburg","Morgantown","Parkersburg","Philippi","Saint Albans","Shepherdstown","Shinnston","Spencer","Weirton","Weirton","Wheeling"
+        ]
+    },
+    {
+        "name": "Wisconsin",
+        "abbreviation": "WI",
+        "WI": [
+            "Abbotsford","Abbotsford","Adams","Albany","Algoma","Altoona","Antigo","Appleton","Appleton","Appleton","Ashland","Ashland","Ashwaubenon","Baraboo","Bay City","Bayside","Beaver Dam","Beloit","Berlin","Black Earth","Black River Falls","Bloomer","Blue Mounds","Boscobel","Brillion","Brodhead","Brodhead","Brookfield","Brown Deer","Burlington","Cambria","Campbellsport","Cedarburg","Chenequa","Chilton","Chippewa Falls","Cleveland","Clinton","Columbus","Cottage Grove","Cross Plains","Cudahy","Cumberland","De Forest","De Pere","Deerfield","Delafield","Delavan","Denmark","Durand","Eagle","East Troy","Eau Claire","Eau Claire","Edgerton","Ellsworth","Elm Grove","Elroy","Ephraim","Evansville","Fond du Lac","Fox Point","Franklin","Fredonia","Germantown","Gillett","Glendale","Grafton","Green Bay","Greendale","Greenfield","Hartford","Hartland","Hazel Green","Hewitt","Hobart","Holmen","Howard","Hudson","Hustisford","Jackson","Janesville","Kaukauna","Kenosha","Kewaunee","Kimberly","Kohler","La Crosse","Lake Geneva","Lake Mills","Lancaster","Lodi","Lomira","Luxemburg","Madison","Manitowoc","Maple Bluff","Marinette","Marion","Marshall","Marshfield","Mayville","Mazomanie","McFarland","Menasha","Menomonee Falls","Mequon","Merrill","Middleton","Milwaukee","Monona","Monroe","Mosinee","Mount Horeb","Mukwonago","Muskego","Neenah","New Berlin","New Glarus","New Lisbon","New London","New Richmond","North Fond du Lac","North Hudson","North Prairie","Oak Creek","Oconomowoc","Oconto Falls","Onalaska","Oostburg","Oregon","Oshkosh","Pewaukee","Platteville","Plover","Plymouth","Port Washington","Portage","Prairie du Sac","Prescott","Racine","Rice Lake","Ripon","River Falls","Rosholt","Saint Francis","Saint Nazianz","Sauk City","Saukville","Sheboygan","Shorewood","Shorewood Hills","Silver Lake","Slinger","South Milwaukee","Sparta","Spooner","Spring Green","Stevens Point","Stoughton","Sturgeon Bay","Sturtevant","Suamico","Sun Prairie","Superior","Sussex","Tigerton","Two Rivers","Valders","Verona","Wales","Walworth","Waterloo","Watertown","Watertown","Waukesha","Waunakee","Waupaca","Waupun","Waupun","Wausau","Wauwatosa","West Allis","West Bend","West Salem","Weston","Whitefish Bay","Whitewater","Williams Bay","Wind Point","Wisconsin Dells","Wisconsin Rapids","Wrightstown","Wrightstown"
+        ]
+    },
+    {
+        "name": "Wyoming",
+        "abbreviation": "WY",
+        "WY": [
+            "Casper","Cheyenne","Douglas","Evanston","Gillette","Green River","Jackson","Kemmerer","Laramie","Lyman","Rawlins","Riverton","Rock Springs","Saratoga","Sheridan","Thayne","Torrington","Worland","Wright"
+        ]
+    }
+]
